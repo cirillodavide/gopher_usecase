@@ -1,2 +1,3 @@
-# gopher_usecase
-GOPHER results of the use case on drug-gene associations in oncology
+# GOPHER USE CASE SCENARIO:DRUG-GENE ASSOCIATIONS IN ONCOLOGY
+
+Here you can download candidate novel HPO-GO connections predicted with GOPHER using PanDrugs database of drug-gene associations.
